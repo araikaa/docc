@@ -9,16 +9,4 @@
  <title>My website</title>
 </head>
 <body>
-<h1 id="title"><strong>Hello</strong></h1>
-<a href="https://www.google.com/">Facebook</a>
-<input type="chechbox">
-<button class="btn">Click me</button>
-<ul id="list">
-  <li class="item element colorLi listElement">
-    <a href="https://www.google.com/">Google</a>
-  </li>
-  <li class="item">Second</li>
-  <li class="item"Third</li>
-  </ul>
-</body>
-</html>
+
